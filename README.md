@@ -25,7 +25,7 @@ Deployment: Vercel
 
  Clone the repository:
 ```bash
-git clone https://github.com/your-username/hackindia-hero-section.git
+git clone https://github.com/vishnuu5/hackindia_hackathon.git
 cd hackindia
 ```
 
