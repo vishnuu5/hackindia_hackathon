@@ -15,6 +15,7 @@ HackIndia 2025 is India's biggest Web3 & AI Hackathon. This project showcases th
 ✅ Optimized for performance & accessibility
 
 ## Tech Stack
+
 Frontend: React.js, Vite
 Styling: Tailwind CSS
 Animations: Framer Motion
