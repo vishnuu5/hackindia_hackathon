@@ -1,8 +1,8 @@
 # HackIndia 2025 - Web3 & AI Hackathon
 
-## 🌐 Live Demo: Insert Deployed Link Here
-## 📂 GitHub Repository: Insert Repo Link Here
-## 🎥 Video Walkthrough: Insert Video Link Here
+## 🌐 Live Demo: Click => [Here](https://hackindia-hackathon.vercel.app)
+## 📂 GitHub Repository: Click => [Here](https://github.com/vishnuu5/hackindia_hackathon)
+## 🎥 Video Walkthrough: Click => Here
 
 # Project Overview
 HackIndia 2025 is India's biggest Web3 & AI Hackathon. This project showcases the hero section of the event, including animations, responsiveness, and dynamic interactions.
